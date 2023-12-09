@@ -1,0 +1,53 @@
+/*Esto es un comentario de linea*/
+/*
+esto es un bloque comentado
+
+*/
+
+*{
+ color: rgb(203, 167, 100); /*RGB- Red-Green-Blue  del 0 al F */
+ background-color: antiquewhite;
+}
+
+ul {
+    color: #4149a7;  /*hexadecimal a=10, b=11, c=12, d=13, e=14 f=15*/
+}
+
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+ol {
+    color: brown;
+}
+
+.item2{
+    color: yellow;
+}
+
+.listaTitulo{
+    color:blue;
+}
+
+.listaitem{
+    color:orange;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parrafoImportante{
+    color: red;
+    text-align: center;
+    border: solid 1px red;
+}
+
+table td, th {
+    border-top: solid 1px violet;
+    border-bottom: solid 1px violet;
+    border-left: solid 1px violet;
+    border-right: solid 1px violet;
+}
